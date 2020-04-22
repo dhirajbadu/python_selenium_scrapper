@@ -1,0 +1,14 @@
+1586253084177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ON8CX"
+1586253087652	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1586253089077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1586253089077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1586253089077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1586253089077	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1586253094804	Marionette	INFO	Listening on port 32955
+1586253094822	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://schedule.msu.edu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=258932770, line 1: unreachable code after return statement
+JavaScript warning: https://schedule.msu.edu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=258932770, line 1: unreachable code after return statement
+JavaScript warning: https://schedule.msu.edu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=258932770, line 1: unreachable code after return statement
+JavaScript warning: https://schedule.msu.edu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=258932770 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://schedule.msu.edu/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=258932770 line 1 > eval, line 1: unreachable code after return statement
+1586253110197	Marionette	INFO	Stopped listening on port 32955
